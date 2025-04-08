@@ -50,6 +50,16 @@ Right Side: Quantity sold by zone
 
 Insight: West leads in both sales and quantity sold.
 
+___
+
+Sales vs Goal Chart
+
+Compares actual sales with target goals
+
+West and East reached or passed their goals
+
+Central and South did not meet their goals
+
 
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Storytelling%20of%20Butterfly%20Chart.PNG)
 
