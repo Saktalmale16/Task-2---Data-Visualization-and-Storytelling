@@ -3,6 +3,7 @@
 📊 Executive Sales Dashboard
 
 🔍 Overview
+
 The Executive Sales Dashboard provides a visual summary of key sales performance metrics using the AdventureWorks dataset. It helps business users quickly understand total sales, profit, quantity sold, and discounts. The dashboard includes charts to compare performance across zones and customer segments, track goals, and identify areas that need improvement.
 
 📌 Key Metrics
