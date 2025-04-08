@@ -17,6 +17,9 @@ Total Profit: 16,919,709
 Total Sales: 118,763,193
 
 
+
+
+
 Butterfly Chart – Sales vs Quantity by Zone
 
 Left side shows sales by zone
