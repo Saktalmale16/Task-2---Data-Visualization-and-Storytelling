@@ -61,6 +61,19 @@ West and East reached or passed their goals
 
 Central and South did not meet their goals
 
+___
+
+Funnel Chart – Sales by Segment
+
+Shows which customer group bought the most:
+
+Consumer: 1,161,401
+
+Corporate: 706,146
+
+Home Office: 429,653
+
+___
 
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Storytelling%20of%20Butterfly%20Chart.PNG)
 
