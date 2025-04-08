@@ -5,7 +5,7 @@
 🔍 Overview
 
 The Executive Sales Dashboard provides a visual summary of key sales performance metrics using the Sales dataset. It helps business users quickly understand total sales, profit, quantity sold, and discounts. The dashboard includes charts to compare performance across zones and customer segments, track goals, and identify areas that need improvement.
-
+Link To : [Interactive Dashboard](https://public.tableau.com/app/profile/sakshi.talmale/viz/SalesDashboardnew_17441049552150/ExecutiveSalesDashboard1)
 ___
 
 📌 Key Metrics
