@@ -16,11 +16,14 @@ Total Profit: 16,919,709
 
 Total Sales: 118,763,193
 
+
 📈 Visuals Used
+
 1. Donut Chart – Sales by Zone
 
-   Shows how much each zone contributed to total sales
+Shows how much each zone contributed to total sales
 
-   East: 678,781 | West: 725,458 | Central: 501,240 | South: 391,722
+East: 678,781 | West: 725,458 | Central: 501,240 | South: 391,722
+
 
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Sales%20dashboard.PNG)
