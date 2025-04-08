@@ -20,7 +20,6 @@ Total Sales: 118,763,193
 📈 Visuals Used
 
 1. Donut Chart – Sales by Zone
-
 Shows how much each zone added to total sales:
 
 East: 678,781
