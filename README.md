@@ -24,6 +24,19 @@ Total Sales: 118,763,193
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Sales%20dashboard.PNG)
 
 
+📈 Visuals Used
+1. Donut Chart – Sales by Zone
+Displays the total sales contribution from each zone:
+
+East: 678,781
+
+West: 725,458
+
+Central: 501,240
+
+South: 391,722
+
+
 
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Storytelling%20of%20Butterfly%20Chart.PNG)
 
