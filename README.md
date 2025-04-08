@@ -39,6 +39,14 @@ Central: 501,240
 South: 391,722
 
 
+Butterfly Chart – Sales vs Quantity by Zone
+
+Left Side: Sales by zone
+
+Right Side: Quantity sold by zone
+
+Insight: West leads in both sales and quantity sold.
+
 
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Storytelling%20of%20Butterfly%20Chart.PNG)
 
