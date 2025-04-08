@@ -6,7 +6,7 @@
 
 The Executive Sales Dashboard provides a visual summary of key sales performance metrics using the Sales dataset. It helps business users quickly understand total sales, profit, quantity sold, and discounts. The dashboard includes charts to compare performance across zones and customer segments, track goals, and identify areas that need improvement.
 
-__
+___
 
 📌 Key Metrics
 
@@ -18,7 +18,7 @@ Total Profit: 16,919,709
 
 Total Sales: 118,763,193
 
-__
+___
 
 
 
