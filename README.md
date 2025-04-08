@@ -23,5 +23,5 @@ Total Sales: 118,763,193
 
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Sales%20dashboard.PNG)
 
-![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Sales%20dashboard.PNG)
+![image.alt]()
 
