@@ -85,5 +85,13 @@ Focus is needed on South and Central zones to improve sales
 
 ___
 
+🛠 Tools Used
+
+Tableau
+
+ETL Tool
+
+___
+
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Storytelling%20of%20Butterfly%20Chart.PNG)
 
