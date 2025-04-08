@@ -17,19 +17,12 @@ Total Profit: 16,919,709
 Total Sales: 118,763,193
 
 
-📈 Visuals Used
+Butterfly Chart – Sales vs Quantity by Zone
 
-1. Donut Chart – Sales by Zone
-Shows how much each zone added to total sales:
+Left side shows sales by zone
 
-East: 678,781
+Right side shows quantity sold
 
-West: 725,458
-
-Central: 501,240
-
-South: 391,722
-
-
+West has the highest sales and quantity
 
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Sales%20dashboard.PNG)
