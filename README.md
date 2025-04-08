@@ -20,12 +20,5 @@ Total Sales: 118,763,193
 
 
 
-Butterfly Chart – Sales vs Quantity by Zone
-
-Left side shows sales by zone
-
-Right side shows quantity sold
-
-West has the highest sales and quantity
 
 ![image.alt](https://github.com/Saktalmale16/Task-2---Data-Visualization-and-Storytelling/blob/main/Sales%20dashboard.PNG)
